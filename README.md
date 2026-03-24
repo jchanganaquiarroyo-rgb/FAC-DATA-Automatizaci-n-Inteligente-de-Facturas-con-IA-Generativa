@@ -8,7 +8,6 @@ El sistema integra visión artificial, procesamiento de lenguaje natural, ingeni
 ---
 ## 📸 Demo del sistema
 <img width="1450" height="787" alt="Dashboard" src="https://github.com/user-attachments/assets/81f8d274-48b1-4da3-9a8c-c06ca26cf900" />
-<img width="937" height="762" alt="facturas de ejemplo 3" src="https://github.com/user-attachments/assets/7d397e2f-f8c0-4b40-9bc1-8ab85274fdcb" />
 
 ## 🚨 Problema
 
