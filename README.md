@@ -1,3 +1,4 @@
+
 # 🧾 FAC-DATA – Automatización de Facturas con IA Generativa
 
 FAC-DATA es una solución de automatización de procesos de negocio (BPA) que utiliza Inteligencia Artificial Generativa para transformar documentos no estructurados (facturas en PDF o imágenes) en información estructurada lista para análisis y toma de decisiones.
@@ -5,6 +6,9 @@ FAC-DATA es una solución de automatización de procesos de negocio (BPA) que ut
 El sistema integra visión artificial, procesamiento de lenguaje natural, ingeniería de datos y visualización en un flujo automatizado end-to-end.
 
 ---
+## 📸 Demo del sistema
+<img width="1450" height="787" alt="Dashboard" src="https://github.com/user-attachments/assets/81f8d274-48b1-4da3-9a8c-c06ca26cf900" />
+<img width="937" height="762" alt="facturas de ejemplo 3" src="https://github.com/user-attachments/assets/7d397e2f-f8c0-4b40-9bc1-8ab85274fdcb" />
 
 ## 🚨 Problema
 
